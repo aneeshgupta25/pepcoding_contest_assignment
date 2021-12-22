@@ -39,6 +39,19 @@ function parseAndextract(html){
 
     let otherSysp = $(ps[14]).text();
     let otherSysul = $(uls[1]).text();
+    
+    console.log(useh2);
+    console.log(englishh3);
+    console.log(englishps1);
+    console.log(englishul);
+    console.log(englishps2);
+    console.log(englishps3);
 
+    console.log(otherLanh3);
+    console.log(otherlanp);
+
+    console.log(otherSysh3);
+    console.log(otherSysp);
+    console.log(otherSysul);
 }
 
